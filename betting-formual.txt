@@ -1,0 +1,8 @@
+// http://www.betsmart.co/odds-conversion-formulas/#americantodecimal
+// https://www.profitaccumulator.co.uk/news/matched-betting/use-decimal-odds-american-odds-covert-switch/#:~:text=Converting%20to%20decimal%20odds,reducing%20to%20the%20simplest%20form.
+//https://www.google.com/search?ei=bpznXpDuFYPez7sPgaa34Ao&q=formula+to+convert+american+odds+to+decimal&oq=how+to+calculate+american+odds+to+deci&gs_lcp=CgZwc3ktYWIQAxgBMgYIABAWEB4yBggAEBYQHjoECAAQRzoECAAQQzoCCABQ4tgcWNeSHWDUux1oAHACeAGAAccDiAGvIJIBCjAuMTcuNC4wLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab
+//https://www.aceodds.com/bet-calculator/odds-converter.html
+https://www.oddsmax.com/sports/how-to-calculate-expected-value-for-sports-betting/#:~:text=It%20is%20a%20simple%20formula,the%20amount%20you%20will%20lose.
+https://mybettingsites.co.uk/learn/betting-odds-explained/#:~:text=Using%20Betting%20Odds%20to%20Calculate%20Probability&text=Here%20is%20the%20calculation%3A%20Probability,that%20the%20event%20will%20happen.
+http://www.betsmart.co/how-sports-betting-works/
+https://help.smarkets.com/hc/en-gb/search?page=2&query=hold+calculator&utf8=%E2%9C%93#results
