@@ -891,6 +891,9 @@
                 }, [t, r]), c = Object(o.useCallback)(() => {
                     r(["", ""]), n("")
                 }, [r, n]), d = q.c.calculateHold(a[0], a[1], e);
+
+                console.log( d );
+
                 return J(o.Fragment, null, J(D.a, {
                     metaFAQ: L.holdCalculator
                 }), J(Q, null, J("div", null, J("div", {
@@ -960,14 +963,20 @@
                 } = Object(o.useState)("-110"), g = Object(o.useCallback)(() => {
                     const t = e ? Number(e) : 0,
                         o = function getErrorMessage(e, t, a, o) {
-                            // return Object(q.j)(a, "American") || Object(q.j)(o, "American") ? "Please enter valid spread odds in American format" : 0 === e ? "" : e && e % .5 === 0 ? e && "NFL" === t && e > 15.5 ? "Please enter a spread no greater than 15.5 for NFL" : e && "NCAAF" === t && e > 19 ? "Please enter a spread no greater than 19 for NCAAF" : e && "NBA" === t && e > 15.5 ? "Please enter a spread no greater than 15.5 for NBA" : "" : "Please enter a valid spread value."
+                            return Object(q.j)(a, "American") || Object(q.j)(o, "American") ? "Please enter valid spread odds in American format" : 0 === e ? "" : e && e % .5 === 0 ? e && "NFL" === t && e > 15.5 ? "Please enter a spread no greater than 15.5 for NFL" : e && "NCAAF" === t && e > 19 ? "Please enter a spread no greater than 19 for NCAAF" : e && "NBA" === t && e > 15.5 ? "Please enter a spread no greater than 15.5 for NBA" : "" : "Please enter a valid spread value."
                         }(Math.abs(t), a, u, p);
                         
                     if (o) return n(o), s(""), void d("");
                     const r = Math.round(Object(V.b)(-Math.abs(t), Number(u), a.toLowerCase())),
                         l = Math.round(Object(V.b)(Math.abs(t), Number(p), a.toLowerCase()));
 
-                        console.log( V +' '+ t);
+                        //NOTE: conversion funciton found here
+
+                        console.log( "---- starts here-----\n");
+                        console.log( e);
+                        console.log( t);
+                        console.log( n);
+                        console.log( "\n---- ends here-----");
                         console.log( V);
 
                     d(r), s(l), n("")
